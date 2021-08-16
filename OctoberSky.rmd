@@ -1,0 +1,96 @@
+---
+title: "OctoberSky"
+output: html_document
+---
+
+# <span style="color:#586E82;font:Bembo"> Technical Documentation for Indrahar Pass </span>
+
+### <span style="color:#1B252E;font:Bembo"> Contents </span> {.tabset.tabset-fade #Go-Back}
+
+Click on any of the below section to directly go to part of the doc.
+
+* [Itenary](#Itenary)
+* [Resources](#Resources)
+* [TrekRoute](#TrekRoute)
+* [Cost](#Cost)
+
+
+
+### <span style="color:#1B252E;font:Bembo">Itenary</span> {.tabset.tabset-fade #Itenary}
+* [Back To Top](#Go-Back)
+
+Day 01: Arriving @ Delhi – McLeodganj (2,082  Mts/ 6,831ft)
+Taking a bus from Delhi (Majnu ka tilla) or from ISBT Kashmere gate. Metro  is available from Paharganj to Kashmere gate. Metro is also available from Delhi airport to NDLS Railway Station and then take metro from paharganj to Kashmere gate. You may book the bus from this [link](!https://www.redbus.in/bus-tickets/delhi-to-mcleod-ganj?fromCityName=Delhi%20%28All%20Locations%29&fromCityId=733&toCityName=McLeod%20Ganj&toCityId=65769&onward=22-Oct-2021&srcCountry=IND&destCountry=IND&opId=0&busType=Any) as well.
+
+Bus also halts at [Haveli](https://www.google.com/travel/hotels/entity/CgoI6_LFme7C4MZCEAE/lightbox/CAoSLEFGMVFpcE0ydko1LWdjaXJBcDRFQkN6UG5HeWExLXpVV19vMjhBSHFUd1Jf?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4515404%2C4545890%2C4561952%2C4596364%2C4600403%2C4603491%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&grf=EmQKLAgOEigSJnIkKiIKBwjlDxAIGB8SBwjlDxAJGAEgADAeQMoCSgcI5Q8QCBgQCjQIDBIwEi6yASsSKQonCiUweDM5MGU2ZjFjNjM5MTBlNGQ6MHg0MjhkODIxNmUzMzE3OTZi&rp=EOvyxZnuwuDGQhDr8sWZ7sLgxkI4AkAASAHAAQI&ictx=1&sa=X&ved=0CAAQ5JsGahcKEwiwiaHpwLXyAhUAAAAAHQAAAAAQAw&utm_campaign=sharing&utm_medium=link&utm_source=htls) in karnal for dinner. Nice place to chill out as well.
+
+
+Day 02: Arriving At McLeodganj
+Usually bus arrives around 6-7 AM in Mcleodganj.
+
+We can explore McLeodganj and its local markets, try out some local cuisine or just have a good sleep in our hotel rooms to get recharged for the trek.
+Also we can visit the Namgayal Monastery which is at the heart of the town.
+
+There are cool cafes around Bhagsunath waterfall. Check out the shiva's cafe.
+We can stay at Dharamkot near to our start of the trekking point like [Gandhi Paradise](https://www.google.com/maps/place/Hotel+Gandhi's+Paradise+-+Dharamshala/@32.2427902,76.3307715,17.17z/data=!4m8!3m7!1s0x0:0xa09e5a72bb93c01c!5m2!4m1!1i2!8m2!3d32.2428032!4d76.3303483) or nearby hotels.
+
+
+Day 03: Regroup @ Dharamkot Vipassana Center(2,100 mtrs/ 6900 ft) – Triund (2,850mts/9350ft) , 6.4 kms/2-3 Hrs
+
+Distance: 10.5 Kms
+
+We can start our trekking as early as 0700 hrs and reach Triund by 1000 hrs for lunch and rest. We proceed from Triund to Lahesh Caves and try to reach there by 3 pm. We setup our tents and settle for the night.
+
+
+Day 04: Lahesh Cave(3500 mts/11482.94 Ft) – Indrahar Pass( 4,342 Mts/ 14245ft) & Way BackDown (2,082  Mts/ 6,831ft)
+
+Distance: 4.2 Kms
+
+Quite challenging but upon reaching the pass you will be awarded the magnificent view of Pir Panjal Range (4,100 m ) in the north direction and beautiful Mani Mahesh Kailash peak (5656 m ) will be all worth it. 
+
+We can start the trek early in the morning like around 3AM and reach Indrahar Pass by 0600 hrs. Please remember the turn around time in passes like this is may be around 0800 hrs.
+
+We can start our journey back to Mcleod Ganj around 0800 hrs from Indrahar pass.
+We can make a stop at lahesh cave for our breakfast and lunch at triund camp.
+If we reach triund by 1 pm then certainly we can make it to Mcleodganj by 5 pm.
+
+We will start the trek from Triund back to Vipassana center at 1 pm and reach the junction of vipassana center by 4 pm.
+
+From there we can book a cab which will take us down to Mcleodganj in 20 mins.
+
+We can enjoy and chill for the rest of the evening.
+
+Day5: We can Stayback in Mcleodganj and take the evening bus back 2 Delhi depending upon the Flight back to our respective cities.
+
+
+
+
+### <span style="color:#1B252E;font:Bembo">Resources</span> {.tabset.tabset-fade #Resources}
+* [Back To Top](#Go-Back)
+
+* Two 20Ltrs Jerry Can of water for will be sufficient for 3 of us for 48 hours hike.
+
+* Diamox
+
+* Packed Food for our Breakfast/Lunch/Dinner
+
+* Two Tents.
+
+* One Guide. One Porter to carry our tents/Jerry Can.
+
+* Hans Cylinders (may be 2-3 will suffice)
+
+* Carry disposable utensils/mugs
+
+
+#todo documentation
+
+### <span style="color:#1B252E;font:Bembo">TrekRoute</span> {.tabset.tabset-fade #TrekRoute}
+* [Back To Top](#Go-Back)
+
+#todo doc
+
+### <span style="color:#1B252E;font:Bembo">Cost</span> {.tabset.tabset-fade #Cost}
+* [Back To Top](#Go-Back)
+
+#ToDo Cost Analysis
